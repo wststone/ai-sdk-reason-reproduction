@@ -1,0 +1,21 @@
+{
+  "name": "ai-sdk-reason-reproduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ai-sdk/deepseek": "^0.1.8",
+    "@ai-sdk/openai": "^1.1.9",
+    "ai": "^4.1.30",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "tsx": "^4.19.2"
+  }
+}
